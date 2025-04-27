@@ -1,0 +1,1 @@
+# cs3510-assignment-1--computation-of-collatz-numbers-solved
